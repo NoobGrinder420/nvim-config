@@ -7,11 +7,11 @@ This documentation covers my Neovim setup, including plugins, themes, and config
 
 Here are some screenshots of the Neovim setup in action:
 
-![Screenshot 1](images/image1)
-![Screenshot 2](images/image2)
-![Screenshot 3](images/image3)
-![Screenshot 4](images/image4)
-![Screenshot 5](images/image5)
+![Screenshot 1](images/image1.png)
+![Screenshot 2](images/image2.png)
+![Screenshot 3](images/image3.png)
+![Screenshot 4](images/image4.png)
+![Screenshot 5](images/image5.png)
 
 
 ## Installation
