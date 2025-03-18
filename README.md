@@ -3,6 +3,17 @@
 ## Overview
 This documentation covers my Neovim setup, including plugins, themes, and configurations.
 
+## Preview
+
+Here are some screenshots of the Neovim setup in action:
+
+![Screenshot 1](images/image1)
+![Screenshot 2](images/image2)
+![Screenshot 3](images/image3)
+![Screenshot 4](images/image4)
+![Screenshot 5](images/image5)
+
+
 ## Installation
 To install this Neovim configuration, clone the dotfiles repository into the appropriate configuration directory:
 
